@@ -12,7 +12,7 @@ module.exports = {
     title: `Gatsby WordPress Twenty Twenty`,
     description: `Gatsby starter site for Twenty Twenty Gatsby Theme.`,
     author: `@henrikwirth`,
-    siteURL: process.env.SITE_URL,
+    siteUrl: 'https://gatsbystarterwordpresstwe67383.gatsbyjs.io/',
   },
   plugins: [
     `gatsby-plugin-image`,
